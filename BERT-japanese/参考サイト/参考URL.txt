@@ -1,0 +1,6 @@
+github
+https://github.com/rinnakk/japanese-pretrained-models
+
+記事
+https://jp.techcrunch.com/2021/04/08/rinna-japanese-gpt2-medium/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAAEJDHr-5fuv0ZBMArhux9bFUqoQc5dhVWTbGBpKPJbhVIrd5mos2VMimkKsrJs2bSnUbVxWGYZ1AanvUt6kXmTqnpM0V4Vml7_hpHm7mWK33BeiEhXhEjAy9Lq6PTxUMnyuY98fOxhM5AvUZJ9-HhpZPROzZj9ieWFUWQxEq1iv
+https://jp.techcrunch.com/2021/08/30/rinna-gpt-2-roberta-oss/
